@@ -57,5 +57,6 @@ Registry → Image → Container
 
 Kubernetes → Manages, scales, and orchestrates containers
 
-<img width="962" height="392" alt="image" src="https://github.com/user-attachments/assets/2973f57c-4fcc-48ad-a560-2414b0cff6fe" />
+<img width="962" height="392" alt="image" src="https://github.com/user-attachments/assets/96ffe263-556e-40a1-99bc-2d19f47116a3" />
+
 
