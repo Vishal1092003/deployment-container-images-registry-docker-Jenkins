@@ -48,6 +48,8 @@ Kubernetes helps manage and orchestrate containers at scale.
 
 ---
 
+<img width="962" height="392" alt="image" src="https://github.com/user-attachments/assets/96ffe263-556e-40a1-99bc-2d19f47116a3" />
+
 # Typical Workflow
 
 ```text
@@ -57,6 +59,6 @@ Registry → Image → Container
 
 Kubernetes → Manages, scales, and orchestrates containers
 
-<img width="962" height="392" alt="image" src="https://github.com/user-attachments/assets/96ffe263-556e-40a1-99bc-2d19f47116a3" />
+
 
 
